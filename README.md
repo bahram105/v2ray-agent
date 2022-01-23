@@ -124,7 +124,7 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-
 
 # 示例图
 
-<img src="https://raw.githubusercontent.com/mack-a/v2ray-agent/master/fodder/install/install.jpg" width=700>
+<img src="https://raw.githubusercontent.com/bahram105/v2ray-agent/master/fodder/install/install.jpg" width=700>
 
 # 许可证
 
